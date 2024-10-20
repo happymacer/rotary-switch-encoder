@@ -12,5 +12,5 @@ CLK on port D6, DT on D5, SW on D3.
 
 It will work on most other rotary switch modules, and with pull up resistors, on all rotary switches.
 
-The included image is extracted from the Bourne's PEC11H series and is a trypical connection.  The PEC11H has a 
+The included image is extracted from the Bourne's PEC11H series and is a typical connection.  The PEC11H has a 
 speed limit of 60RPM - and thats pretty slow!
